@@ -19,19 +19,23 @@ class FFNN(nn.Module):
     def __init__(self, input_dim, h):
         super(FFNN, self).__init__()
         self.h = h
-        self.W1 = nn.Linear(input_dim, h)
+        self.W1 = nn.Linear(input_dim, h) # linear layer W1
         self.activation = nn.ReLU() # The rectified linear unit; one valid choice of activation function
-        self.output_dim = 5
-        self.W2 = nn.Linear(h, self.output_dim)
+        self.output_dim = 5 # this is hardcoded
+        self.W2 = nn.Linear(h, self.output_dim) # linear layer W2
 
         self.softmax = nn.LogSoftmax() # The softmax function that converts vectors into probability distributions; computes log probabilities for computational benefits
         self.loss = nn.NLLLoss() # The cross-entropy/negative log likelihood loss taught in class
 
-    def compute_Loss(self, predicted_vector, gold_label):
+    def compute_Loss(self, predicted_vector, gold_label): # computes the loss between predicted vector and gold(true) label
         return self.loss(predicted_vector, gold_label)
 
     def forward(self, input_vector):
         # [to fill] obtain first hidden layer representation
+        # hidden layer does not interact between input and output layers
+
+        # hidden layer is represented by the transformation that occurs between applying the first linear transformation 
+        # and activation (use ReLU)
 
         # [to fill] obtain output layer representation
 
@@ -42,6 +46,7 @@ class FFNN(nn.Module):
 
 # Returns: 
 # vocab = A set of strings corresponding to the vocabulary
+# builds a set of unique words from the training data
 def make_vocab(data):
     vocab = set()
     for document, _ in data:
