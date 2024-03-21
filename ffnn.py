@@ -17,6 +17,9 @@ unk = '<UNK>'
 # https://pytorch.org/docs/stable/torch.html
 class FFNN(nn.Module):
     def __init__(self, input_dim, h):
+
+        device = torch.device("cuda" if use_cuda else "cpu")
+        model = FFNN().to(device)
         super(FFNN, self).__init__()
         self.h = h
         self.W1 = nn.Linear(input_dim, h) # linear layer W1
@@ -35,11 +38,17 @@ class FFNN(nn.Module):
         # hidden layer does not interact between input and output layers
 
         # hidden layer is represented by the transformation that occurs between applying the first linear transformation 
-        # and activation (use ReLU)
+        # and activation (use activation which uses ReLU)
+
+        hiddenLayer = self.activation(self.W1(input_vector))
 
         # [to fill] obtain output layer representation
 
+        output_layer = self.W2(hiddenLayer)
+
         # [to fill] obtain probability dist.
+
+        predicted_vector = self.softmax(output_layer)
 
         return predicted_vector
 
