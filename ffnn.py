@@ -18,8 +18,7 @@ unk = '<UNK>'
 class FFNN(nn.Module):
     def __init__(self, input_dim, h):
 
-        device = torch.device("cuda" if use_cuda else "cpu")
-        model = FFNN().to(device)
+        
         super(FFNN, self).__init__()
         self.h = h
         self.W1 = nn.Linear(input_dim, h) # linear layer W1
