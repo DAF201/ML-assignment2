@@ -30,13 +30,23 @@ class RNN(nn.Module):
         return self.loss(predicted_vector, gold_label)
 
     def forward(self, inputs):
-        # [to fill] obtain hidden layer representation (https://pytorch.org/docs/stable/generated/torch.nn.RNN.html)
-        _, hidden = 
-        # [to fill] obtain output layer representations
+        # Pass the input through the RNN layer
+        rnn_out, hidden = self.rnn(inputs)
+        
+        # Take the last hidden state to pass through the linear layer
+        # Since the last hidden state of the RNN can be considered as containing information from the entire sequence
+        last_hidden = hidden[-1]
 
-        # [to fill] sum over output 
+        # Pass the last hidden state through the linear transformation
+        output = self.W(last_hidden)
+        
+        # Sum over the outputs if you're aggregating output representations (not always necessary with RNNs)
+        # This could be something like: summed_output = torch.sum(output, dim=1)
+        # But you would only do this if you needed to sum over time steps, which isn't clear from your context.
 
-        # [to fill] obtain probability dist.
+        # Apply softmax to get the probability distribution
+        # If you're summing outputs, you'd apply softmax to summed_output instead of output
+        predicted_vector = self.softmax(output)
 
         return predicted_vector
 
