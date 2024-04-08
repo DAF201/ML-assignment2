@@ -1,0 +1,265 @@
+Training completed for epoch 1
+Training accuracy for epoch 1: 0.2391875
+Training time for this epoch: 32.43883919715881
+Validation completed for epoch 1
+Validation accuracy for epoch 1: 0.3425
+Validation time for this epoch: 0.911611795425415
+time cost for 1 epoches:33.354450941085815 avg: 33.354450941085815time cost for 32 hidden_dim:33.354450941085815 avg: 1.0423265919089317
+Training completed for epoch 5
+Training accuracy for epoch 5: 0.2490625
+Training time for this epoch: 26.02841281890869
+Validation completed for epoch 5
+Validation accuracy for epoch 5: 0.13625
+Validation time for this epoch: 0.8436589241027832
+time cost for 5 epoches:153.2200379371643 avg: 30.64400758743286time cost for 32 hidden_dim:153.2200379371643 avg: 4.788126185536385
+Training completed for epoch 10
+Training accuracy for epoch 10: 0.2539375
+Training time for this epoch: 30.777140140533447
+Validation completed for epoch 10
+Validation accuracy for epoch 10: 0.305
+Validation time for this epoch: 0.9426789283752441
+time cost for 10 epoches:291.60303497314453 avg: 29.16030349731445time cost for 32 hidden_dim:291.60303497314453 avg: 9.112594842910767
+Training completed for epoch 20
+Training accuracy for epoch 20: 0.2428125
+Training time for this epoch: 29.91426730155945
+Validation completed for epoch 20
+Validation accuracy for epoch 20: 0.32625
+Validation time for this epoch: 0.9211244583129883
+time cost for 20 epoches:599.5325429439545 avg: 29.976627147197725time cost for 32 hidden_dim:599.5325429439545 avg: 18.735391966998577
+Training completed for epoch 40
+Training accuracy for epoch 40: 0.2575625
+Training time for this epoch: 29.888724327087402
+Validation completed for epoch 40
+Validation accuracy for epoch 40: 0.25875
+Validation time for this epoch: 0.9218599796295166
+time cost for 40 epoches:1218.9331440925598 avg: 30.473328602313995time cost for 32 hidden_dim:1218.9331440925598 avg: 38.091660752892494
+Training completed for epoch 60
+Training accuracy for epoch 60: 0.24525
+Training time for this epoch: 24.928557634353638
+Validation completed for epoch 60
+Validation accuracy for epoch 60: 0.36625
+Validation time for this epoch: 0.8540613651275635
+time cost for 60 epoches:1776.7817080020905 avg: 29.613028466701508time cost for 32 hidden_dim:1776.7817080020905 avg: 55.52442837506533
+Training completed for epoch 80
+Training accuracy for epoch 80: 0.2453125
+Training time for this epoch: 26.35628366470337
+Validation completed for epoch 80
+Validation accuracy for epoch 80: 0.32375
+Validation time for this epoch: 0.8780395984649658
+time cost for 80 epoches:2299.4237520694733 avg: 28.742796900868417time cost for 32 hidden_dim:2299.4237520694733 avg: 71.85699225217104
+Training completed for epoch 100
+Training accuracy for epoch 100: 0.2425
+Training time for this epoch: 24.859454870224
+Validation completed for epoch 100
+Validation accuracy for epoch 100: 0.29875
+Validation time for this epoch: 0.8543381690979004
+time cost for 100 epoches:2824.1421139240265 avg: 28.241421139240266time cost for 32 hidden_dim:2824.1421139240265 avg: 88.25444106012583
+
+Training completed for epoch 1
+Training accuracy for epoch 1: 0.245875
+Training time for this epoch: 37.286576986312866
+Validation completed for epoch 1
+Validation accuracy for epoch 1: 0.3625
+Validation time for this epoch: 1.403719186782837
+time cost for 1 epoches:38.695298194885254 avg: 38.695298194885254time cost for 10 hidden_dim:38.695298194885254 avg: 3.8695298194885255
+Training completed for epoch 5
+Training accuracy for epoch 5: 0.2653125
+Training time for this epoch: 25.572355270385742
+Validation completed for epoch 5
+Validation accuracy for epoch 5: 0.29375
+Validation time for this epoch: 0.8300869464874268
+time cost for 5 epoches:152.42664003372192 avg: 30.485328006744385time cost for 10 hidden_dim:152.42664003372192 avg: 15.242664003372193
+Training completed for epoch 10
+Training accuracy for epoch 10: 0.2753125
+Training time for this epoch: 34.8744261264801
+Validation completed for epoch 10
+Validation accuracy for epoch 10: 0.33
+Validation time for this epoch: 0.7355833053588867
+time cost for 10 epoches:337.74823808670044 avg: 33.77482380867004time cost for 10 hidden_dim:337.74823808670044 avg: 33.77482380867004
+Training completed for epoch 1
+
+Training accuracy for epoch 1: 0.249125
+Training time for this epoch: 24.579581022262573
+Validation completed for epoch 1
+Validation accuracy for epoch 1: 0.18125
+Validation time for this epoch: 0.8806681632995605
+time cost for 1 epoches:25.464251041412354 avg: 25.464251041412354time cost for 25 hidden_dim:25.464251041412354 avg: 1.0185700416564942
+Training completed for epoch 5
+Training accuracy for epoch 5: 0.251375
+Training time for this epoch: 36.98865056037903
+Validation completed for epoch 5
+Validation accuracy for epoch 5: 0.31625
+Validation time for this epoch: 0.9092121124267578
+time cost for 5 epoches:156.3208248615265 avg: 31.2641649723053time cost for 25 hidden_dim:156.3208248615265 avg: 6.25283299446106
+Training completed for epoch 10
+Training accuracy for epoch 10: 0.25775
+Training time for this epoch: 29.325284004211426
+Validation completed for epoch 10
+Validation accuracy for epoch 10: 0.2275
+Validation time for this epoch: 1.5498700141906738
+time cost for 10 epoches:292.27052307128906 avg: 29.227052307128908time cost for 25 hidden_dim:292.27052307128906 avg: 11.690820922851563
+Training completed for epoch 1
+
+Training accuracy for epoch 1: 0.2215
+Training time for this epoch: 23.736539125442505
+Validation completed for epoch 1
+Validation accuracy for epoch 1: 0.29875
+Validation time for this epoch: 0.8449850082397461
+time cost for 1 epoches:24.586524963378906 avg: 24.586524963378906time cost for 50 hidden_dim:24.586524963378906 avg: 0.4917304992675781
+Training completed for epoch 5
+Training accuracy for epoch 5: 0.2349375
+Training time for this epoch: 25.640398025512695
+Validation completed for epoch 5
+Validation accuracy for epoch 5: 0.295
+Validation time for this epoch: 0.8660638332366943
+time cost for 5 epoches:128.1432008743286 avg: 25.628640174865723time cost for 50 hidden_dim:128.1432008743286 avg: 2.5628640174865724
+Training completed for epoch 10
+Training accuracy for epoch 10: 0.2366875
+Training time for this epoch: 26.16548442840576
+Validation completed for epoch 10
+Validation accuracy for epoch 10: 0.325
+Validation time for this epoch: 0.886486291885376
+time cost for 10 epoches:261.80933594703674 avg: 26.180933594703674time cost for 50 hidden_dim:261.80933594703674 avg: 5.2361867189407345
+
+Training completed for epoch 1
+Training accuracy for epoch 1: 0.20225
+Training time for this epoch: 24.180082321166992
+Validation completed for epoch 1
+Validation accuracy for epoch 1: 0.19125
+Validation time for this epoch: 0.8276524543762207
+time cost for 1 epoches:25.012733936309814 avg: 25.012733936309814time cost for 100 hidden_dim:25.012733936309814 avg: 0.25012733936309817
+Training completed for epoch 5
+Training accuracy for epoch 5: 0.2095
+Training time for this epoch: 25.475488424301147
+Validation completed for epoch 5
+Validation accuracy for epoch 5: 0.01125
+Validation time for this epoch: 0.8520174026489258
+time cost for 5 epoches:130.7897698879242 avg: 26.15795397758484time cost for 100 hidden_dim:130.7897698879242 avg: 1.307897698879242
+Training completed for epoch 10
+Training accuracy for epoch 10: 0.2298125
+Training time for this epoch: 24.626840114593506
+Validation completed for epoch 10
+Validation accuracy for epoch 10: 0.27375
+Validation time for this epoch: 0.8745810985565186
+time cost for 10 epoches:259.3475959300995 avg: 25.93475959300995time cost for 100 hidden_dim:259.3475959300995 avg: 2.593475959300995
+
+Training completed for epoch 1
+Training accuracy for epoch 1: 0.20825
+Training time for this epoch: 23.91514539718628
+Validation completed for epoch 1
+Validation accuracy for epoch 1: 0.255
+Validation time for this epoch: 0.8681631088256836
+time cost for 1 epoches:24.78830885887146 avg: 24.78830885887146time cost for 200 hidden_dim:24.78830885887146 avg: 0.1239415442943573
+Training completed for epoch 5
+Training accuracy for epoch 5: 0.2030625
+Training time for this epoch: 25.96055316925049
+Validation completed for epoch 5
+Validation accuracy for epoch 5: 0.4
+Validation time for this epoch: 0.8836014270782471
+time cost for 5 epoches:146.52912783622742 avg: 29.305825567245485time cost for 200 hidden_dim:146.52912783622742 avg: 0.7326456391811371
+Training accuracy for epoch 10: 0.203375
+Training time for this epoch: 25.901395559310913
+Validation completed for epoch 10
+Validation accuracy for epoch 10: 0.38125
+Validation time for this epoch: 0.9022963047027588
+time cost for 10 epoches:279.20092582702637 avg: 27.920092582702637time cost for 200 hidden_dim:279.20092582702637 avg: 1.3960046291351318
+
+Training completed for epoch 1
+Training accuracy for epoch 1: 0.202625
+Training time for this epoch: 24.741403341293335
+Validation completed for epoch 1
+Validation accuracy for epoch 1: 0.365
+Validation time for this epoch: 0.9033529758453369
+time cost for 1 epoches:25.64975619316101 avg: 25.64975619316101time cost for 175 hidden_dim:25.64975619316101 avg: 0.14657003538949148
+Training completed for epoch 5
+Training accuracy for epoch 5: 0.208875
+Training time for this epoch: 24.756353855133057
+Validation completed for epoch 5
+Validation accuracy for epoch 5: 0.36125
+Validation time for this epoch: 0.855175256729126
+time cost for 5 epoches:129.0132920742035 avg: 25.8026584148407time cost for 175 hidden_dim:129.0132920742035 avg: 0.7372188118525914
+Training completed for epoch 10
+Training accuracy for epoch 10: 0.203625
+Training time for this epoch: 26.160461902618408
+Validation completed for epoch 10
+Validation accuracy for epoch 10: 0.18625
+Validation time for this epoch: 0.8342862129211426
+time cost for 10 epoches:262.5139009952545 avg: 26.25139009952545time cost for 175 hidden_dim:262.5139009952545 avg: 1.5000794342585972
+
+Training completed for epoch 1
+Training accuracy for epoch 1: 0.2051875
+Training time for this epoch: 25.94019055366516
+Validation completed for epoch 1
+Validation accuracy for epoch 1: 0.1875
+Validation time for this epoch: 0.9006361961364746
+time cost for 1 epoches:26.84532904624939 avg: 26.84532904624939
+time cost for 250 hidden_dim:26.84532904624939 avg: 0.10738131618499756
+Training completed for epoch 5
+Training accuracy for epoch 5: 0.1959375
+Training time for this epoch: 24.764505863189697
+Validation completed for epoch 5
+Validation accuracy for epoch 5: 0.1625
+Validation time for this epoch: 0.8683478832244873
+time cost for 5 epoches:132.65701508522034 avg: 26.531403017044067
+time cost for 250 hidden_dim:132.65701508522034 avg: 0.5306280603408814
+Training completed for epoch 10
+Training accuracy for epoch 10: 0.2036875
+Training time for this epoch: 25.295791149139404
+Validation completed for epoch 10
+Validation accuracy for epoch 10: 0.195
+Validation time for this epoch: 0.8671877384185791
+time cost for 10 epoches:264.3674430847168 avg: 26.43674430847168
+time cost for 250 hidden_dim:264.3674430847168 avg: 1.0574697723388673
+
+Training completed for epoch 1
+Training accuracy for epoch 1: 0.2033125
+Training time for this epoch: 58.18315076828003
+Validation completed for epoch 1
+Validation accuracy for epoch 1: 0.31625
+Validation time for this epoch: 1.4639837741851807
+time cost for 1 epoches:59.65213394165039 avg: 59.65213394165039
+time cost for 375 hidden_dim:59.65213394165039 avg: 0.15907235717773438
+Training completed for epoch 5
+Training accuracy for epoch 5: 0.2038125
+Training time for this epoch: 56.19784450531006
+Validation completed for epoch 5
+Validation accuracy for epoch 5: 0.39
+Validation time for this epoch: 1.4527618885040283
+time cost for 5 epoches:299.56359696388245 avg: 59.91271939277649
+time cost for 375 hidden_dim:299.56359696388245 avg: 0.7988362585703532
+Training completed for epoch 10
+Training accuracy for epoch 10: 0.2
+Training time for this epoch: 60.08009719848633
+Validation completed for epoch 10
+Validation accuracy for epoch 10: 0.31625
+Validation time for this epoch: 1.4625468254089355
+time cost for 10 epoches:603.5873157978058 avg: 60.35873157978058
+time cost for 375 hidden_dim:603.5873157978058 avg: 1.6095661754608155
+
+
+Training completed for epoch 1
+Training accuracy for epoch 1: 0.2003125
+Training time for this epoch: 67.07277131080627
+Validation completed for epoch 1
+Validation accuracy for epoch 1: 0.2725
+Validation time for this epoch: 2.004852294921875
+time cost for 1 epoches:69.08162093162537 avg: 69.08162093162537
+time cost for 500 hidden_dim:69.08162093162537 avg: 0.13816324186325074
+Training completed for epoch 5
+Training accuracy for epoch 5: 0.2035
+Training time for this epoch: 69.49654269218445
+Validation completed for epoch 5
+Validation accuracy for epoch 5: 0.19375
+Validation time for this epoch: 1.9962742328643799
+time cost for 5 epoches:350.9354648590088 avg: 70.18709297180176
+time cost for 500 hidden_dim:350.9354648590088 avg: 0.7018709297180176
+Training completed for epoch 10
+Training accuracy for epoch 10: 0.2004375
+Training time for this epoch: 66.8969075679779
+Validation completed for epoch 10
+Validation accuracy for epoch 10: 0.20625
+Validation time for this epoch: 2.032853364944458
+time cost for 10 epoches:696.4438090324402 avg: 69.64438090324401
+time cost for 500 hidden_dim:696.4438090324402 avg: 1.3928876180648804
+
+
